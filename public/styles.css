@@ -1,0 +1,9 @@
+.card img {
+    width: 150px;  /* Set the width you want */
+    height: 150px; /* Set the height you want */
+    object-fit: cover; /* Ensures the image covers the entire area without distorting */
+    border-radius: 50%; /* Optional: Make the image round */
+  }
+  .card{
+    color:red;
+  }
